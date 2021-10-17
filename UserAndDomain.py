@@ -1,4 +1,8 @@
+
+# code changes to the master branch to form new branch- Team member1
+
 #Code changes to master branch directly by Team Lead
+
 email_id = input("Enter your mail is: ")
 List = email_id.split("@")
 #print(List)
